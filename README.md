@@ -1,5 +1,5 @@
 ---
-title: CP79 Soft
+title: "CP79 Soft"
 ---
 ## Welcome to GitHub Pages
 
