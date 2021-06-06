@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "CP79 Soft"
 ---
 ## Welcome to GitHub Pages
